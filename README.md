@@ -1,5 +1,7 @@
 # Inlämningsuppgift 2 
 
+##Betyg: VG 
+
 ## Instruktioner
 Ni ska samarbeta i grupper om 3 där ni ska göra en enkel webbshop där man ska kunna lägga produkter i en varukorg och därefter ”gå till kassan” och lägga en order.
 
